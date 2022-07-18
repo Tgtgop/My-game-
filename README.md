@@ -1,1 +1,2 @@
-# My-game-
+# my gmae
+added sprite animation
